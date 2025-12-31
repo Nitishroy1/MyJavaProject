@@ -2,7 +2,8 @@ package com.newException;
 
 public class Hello {
 	void main() {
-		IO.println("Hello world");
+		IO.println("Hello_world");
+		 IO.println("Nitish_");
 	}
 
 }

@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="lamdaFunctionalExpreation"/>
 	<classpathentry kind="src" path="Exception_Handling_programe"/>
 	<classpathentry kind="src" path="ExceptionHandaling"/>
+	<classpathentry kind="src" path="Array"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
