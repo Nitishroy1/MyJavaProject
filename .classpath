@@ -13,5 +13,9 @@
 	<classpathentry kind="src" path="Exception_Handling_programe"/>
 	<classpathentry kind="src" path="ExceptionHandaling"/>
 	<classpathentry kind="src" path="Array"/>
+	<classpathentry kind="src" path="Collection_retrive_object"/>
+	<classpathentry kind="src" path="ComprabalAndcoparator"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="LinkedList"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
