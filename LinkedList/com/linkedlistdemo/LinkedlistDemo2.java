@@ -9,6 +9,7 @@ public class LinkedlistDemo2 {
 		list.add("Nitish Kumar");
 		list.add("Rajnish");
 		list.add("Ram");
+		
 	}
 
 }
