@@ -17,5 +17,8 @@
 	<classpathentry kind="src" path="ComprabalAndcoparator"/>
 	<classpathentry kind="src" path="Collection"/>
 	<classpathentry kind="src" path="LinkedList"/>
+	<classpathentry kind="src" path="Map interface"/>
+	<classpathentry kind="src" path="ArrayList_Serialization"/>
+	<classpathentry kind="src" path="ArrayList"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
