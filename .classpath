@@ -20,5 +20,6 @@
 	<classpathentry kind="src" path="Map interface"/>
 	<classpathentry kind="src" path="ArrayList_Serialization"/>
 	<classpathentry kind="src" path="ArrayList"/>
+	<classpathentry kind="src" path="Student_Mng_Sys_Map_Interface"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
