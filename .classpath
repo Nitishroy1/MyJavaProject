@@ -22,5 +22,7 @@
 	<classpathentry kind="src" path="ArrayList"/>
 	<classpathentry kind="src" path="Student_Mng_Sys_Map_Interface"/>
 	<classpathentry kind="src" path="HashMap_Interface"/>
+	<classpathentry kind="src" path="HashSet_prog"/>
+	<classpathentry kind="src" path="Stream Api"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
