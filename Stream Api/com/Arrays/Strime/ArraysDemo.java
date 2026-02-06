@@ -58,33 +58,16 @@ public class ArraysDemo
 		
 		//WAP to filter Palindrome Words from an Array.
 
-		String[] words = {"madam", "hello", "racecar", "java", "level", "world"};
-		
-		Arrays.stream(words)
-		   .filter(word -> {
-			    StringBuilder  rev=new StringBuilder();
-			   for(int i=word.length()-1;i>=0;i--) {
-				  rev.append(word.charAt(i)); 
-			   }
-			   return word.equals(rev);
-		   });
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	}
+		 String[] words = {"madam", "hello", "racecar", "java", "level", "world"};
 
+	        Arrays.stream(words)
+	            .filter(word -> {
+	                StringBuilder rev = new StringBuilder();
+	                for (int i = word.length() - 1; i >= 0; i--) {
+	                    rev.append(word.charAt(i));
+	                }
+	                return word.equals(rev.toString()); // FIX
+	            })
+	            .forEach(System.out::println);
+	    }
 }
