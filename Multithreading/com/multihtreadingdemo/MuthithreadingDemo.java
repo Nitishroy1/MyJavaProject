@@ -9,6 +9,7 @@ public class MuthithreadingDemo extends Thread {
 			}
 		}
 	}
+	//
    void main() {
 	   MuthithreadingDemo t=new MuthithreadingDemo();
 	   t.start();
